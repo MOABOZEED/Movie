@@ -1,6 +1,6 @@
 # movie
 
-Movie app made in Flutter with clean architecture using BLoC, Hive and the movie db API.
+Movie app made in Flutter with clean architecture using BLoC and the movie db API.
 
 ## Getting Started
 
